@@ -1,0 +1,37 @@
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.pdb
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.pdb
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csprojResolveAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csprojAssemblyReference.cache
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.pdb
+C:\Users\Konrad\Desktop\Source\Repos\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+C:\Users\Konrad\Desktop\Source\Repos\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+C:\Users\Konrad\Desktop\Source\Repos\Imperium_Logic\obj\Debug\Imperium_Logic.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Source\Repos\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+C:\Users\Konrad\Desktop\Source\Repos\Imperium_Logic\obj\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csprojAssemblyReference.cache
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Logic\bin\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.csprojAssemblyReference.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Logic\obj\Debug\Imperium_Logic.pdb

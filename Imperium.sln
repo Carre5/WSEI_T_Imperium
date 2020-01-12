@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imperium", "Imperium\Imperium.csproj", "{97D6DD79-BA70-4A8D-BFE8-8E8054A411ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imperium_Logic", "Imperium_Logic\Imperium_Logic.csproj", "{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D6DD79-BA70-4A8D-BFE8-8E8054A411ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D6DD79-BA70-4A8D-BFE8-8E8054A411ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D6DD79-BA70-4A8D-BFE8-8E8054A411ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D6DD79-BA70-4A8D-BFE8-8E8054A411ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579D5453-B514-4F3D-A6CC-5C182EBD1AE2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,137 @@
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe.config
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.g.cs
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\App.g.cs
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.baml
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.g.resources
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.exe
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe.config
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.pdb
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.dll
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.pdb
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csprojResolveAssemblyReference.cache
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.g.cs
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\App.g.cs
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.baml
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.g.resources
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.GenerateResource.Cache
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.exe
+C:\Users\mateusz.popiela\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.pdb
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe.config
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.pdb
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.dll
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.g.cs
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\App.g.cs
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.baml
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.g.resources
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.exe
+D:\Studia\Semestr III\Lab C#\Nowy folder\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.pdb
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe.config
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.exe
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium.pdb
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\bin\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.g.cs
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\App.g.cs
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\MainWindow.baml
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.g.resources
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.exe
+C:\Users\mpyjos\Desktop\WSEI_CS_Imperium (2)\WSEI_CS_Imperium\Imperium\obj\Debug\Imperium.pdb
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\bin\Debug\Imperium.exe.config
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\bin\Debug\Imperium.exe
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\bin\Debug\Imperium.pdb
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\bin\Debug\Imperium_Logic.dll
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\bin\Debug\Imperium_Logic.pdb
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\App.g.cs
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.g.resources
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.exe
+C:\Users\Konrad\Desktop\Source\Repos\Imperium\obj\Debug\Imperium.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\bin\Debug\Imperium.exe.config
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\bin\Debug\Imperium.exe
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\bin\Debug\Imperium.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\bin\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\bin\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\MainWindow.g.cs
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\App.g.cs
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\MainWindow.baml
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.g.resources
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.exe
+C:\Users\mpyjos\Desktop\CS_Imperium (xd)\Imperium\obj\Debug\Imperium.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\bin\Debug\Imperium.exe.config
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\bin\Debug\Imperium.exe
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\bin\Debug\Imperium.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\bin\Debug\Imperium_Logic.dll
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\bin\Debug\Imperium_Logic.pdb
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\MainWindow.g.cs
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\App.g.cs
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\MainWindow.baml
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.g.resources
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.exe
+C:\Users\mpyjos\Desktop\CS_Imperium\Imperium\obj\Debug\Imperium.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\bin\Debug\Imperium.exe.config
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\bin\Debug\Imperium.exe
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\bin\Debug\Imperium.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\bin\Debug\Imperium_Logic.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\bin\Debug\Imperium_Logic.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.csprojAssemblyReference.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\MainWindow.g.cs
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\App.g.cs
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium_MarkupCompile.lref
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\MainWindow.baml
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.g.resources
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.Properties.Resources.resources
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.csproj.GenerateResource.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.csproj.CopyComplete
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.exe
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium\obj\Debug\Imperium.pdb
