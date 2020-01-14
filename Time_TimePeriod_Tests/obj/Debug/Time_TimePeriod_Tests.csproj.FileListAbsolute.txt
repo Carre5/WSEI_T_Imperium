@@ -1,0 +1,54 @@
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Time_TimePeriod_Tests.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Time_TimePeriod_Tests.pdb
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.csproj.CopyComplete
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.pdb
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_TimePeriod_Tests\bin\Debug\Time_and_TimePeriod.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_TimePeriod_Tests.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_TimePeriod_Tests.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_and_TimePeriod.pdb
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.csproj.CopyComplete
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.dll
+D:\Studia\Semestr III\Lab C#\WSEI_CS_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_TimePeriod_Tests.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_TimePeriod_Tests.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Time_and_TimePeriod.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.csprojAssemblyReference.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.csproj.CopyComplete
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_TimePeriod_Tests\obj\Debug\Time_TimePeriod_Tests.pdb

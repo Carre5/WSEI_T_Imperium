@@ -1,0 +1,8 @@
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\bin\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.deps.json
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\bin\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\bin\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\obj\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.csprojAssemblyReference.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\obj\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.AssemblyInfoInputs.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\obj\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.AssemblyInfo.cs
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\obj\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Imperium_Marketplace_Lib\obj\Debug\netcoreapp3.1\Imperium_Marketplace_Lib.pdb

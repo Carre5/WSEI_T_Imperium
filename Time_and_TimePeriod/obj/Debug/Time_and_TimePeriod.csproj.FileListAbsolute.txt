@@ -1,0 +1,10 @@
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_and_TimePeriod\bin\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_and_TimePeriod\bin\Debug\Time_and_TimePeriod.pdb
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_and_TimePeriod\obj\Debug\Time_and_TimePeriod.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_and_TimePeriod\obj\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr III\Lab C#\Time_TimePeriod\Time_and_TimePeriod\obj\Debug\Time_and_TimePeriod.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_and_TimePeriod\bin\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_and_TimePeriod\bin\Debug\Time_and_TimePeriod.pdb
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_and_TimePeriod\obj\Debug\Time_and_TimePeriod.csprojAssemblyReference.cache
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_and_TimePeriod\obj\Debug\Time_and_TimePeriod.dll
+D:\Studia\Semestr V\WSEI_T_Imperium\Time_and_TimePeriod\obj\Debug\Time_and_TimePeriod.pdb

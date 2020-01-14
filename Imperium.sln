@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imperium", "Imperium\Imperi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imperium_Logic", "Imperium_Logic\Imperium_Logic.csproj", "{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imperium_Marketplace_Lib", "Imperium_Marketplace_Lib\Imperium_Marketplace_Lib.csproj", "{CDA67935-7B76-40DF-918D-4560F23728C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_and_TimePeriod", "Time_and_TimePeriod\Time_and_TimePeriod.csproj", "{E1897D03-48FA-4104-8209-261D5B9DE50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_TimePeriod_Tests", "Time_TimePeriod_Tests\Time_TimePeriod_Tests.csproj", "{9635760E-DD78-4A96-A57B-CCFC442B1B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC810A93-AEBC-4B0A-8615-70FED0CE0C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA67935-7B76-40DF-918D-4560F23728C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA67935-7B76-40DF-918D-4560F23728C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA67935-7B76-40DF-918D-4560F23728C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA67935-7B76-40DF-918D-4560F23728C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1897D03-48FA-4104-8209-261D5B9DE50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1897D03-48FA-4104-8209-261D5B9DE50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1897D03-48FA-4104-8209-261D5B9DE50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1897D03-48FA-4104-8209-261D5B9DE50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9635760E-DD78-4A96-A57B-CCFC442B1B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9635760E-DD78-4A96-A57B-CCFC442B1B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9635760E-DD78-4A96-A57B-CCFC442B1B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9635760E-DD78-4A96-A57B-CCFC442B1B39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
